@@ -49,7 +49,7 @@ Give credit here.
 
 
 ## Contact
-Created by [@ankyhunk] - feel free to contact me!
+Created by [ankyhunk] - feel free to contact me!
 
 
 <!-- Optional -->
